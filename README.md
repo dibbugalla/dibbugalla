@@ -9,7 +9,7 @@
 -           BODY CONTROLL MODULE USING CAN PROTOCOL.
 -           GEAR SHIFING ASSISTANCE PROTOTYPE USING CANoe TOOL.
 
-<!---
+<!--- // many of projects is added inrepositoty // in my git hub account
 dibbugalla/dibbugalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
